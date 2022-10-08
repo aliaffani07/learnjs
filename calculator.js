@@ -23,3 +23,9 @@ subration(3,3)
 mutiplication(7,7)
 division(1000,10)
 remainder(52,7)
+
+function addition (a,b,c){
+    let add = a+b+c
+    console.log(`addition of ${a} ${b} ${c} is ${add}`)
+}
+addition(3,5,8)
